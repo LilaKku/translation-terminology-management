@@ -26,11 +26,9 @@ Maintaining consistency is important because terminology directly affects compre
 
 | English         | Korean |
 | --------------- | ------ |
-| Deploy 
-  peacekeeping 
-  operations | 평화유지작전 배치|
+| Deploy peacekeeping operations | 평화유지작전 배치|
 | minilateral  | 소규모다자   |
-| uphold the UN charger       | 유엔 헌장을 지키다     |
+| uphold the UN charter       | 유엔 헌장을 지키다     |
 
 ### Business
 

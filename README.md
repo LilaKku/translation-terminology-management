@@ -26,9 +26,11 @@ Maintaining consistency is important because terminology directly affects compre
 
 | English         | Korean |
 | --------------- | ------ |
-| Bilateral Talks | 양자회담   |
-| Summit Meeting  | 정상회담   |
-| Sanctions       | 제재     |
+| Deploy 
+  peacekeeping 
+  operations | 평화유지작전 배치|
+| minilateral  | 소규모다자   |
+| uphold the UN charger       | 유엔 헌장을 지키다     |
 
 ### Business
 

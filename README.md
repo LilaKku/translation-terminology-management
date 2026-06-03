@@ -18,7 +18,7 @@ Maintaining consistency is important because terminology directly affects compre
 
 | English         | Korean |
 | --------------- | ------ |
-| Inflation       | 인플레이션  |
+| resilient economy | 경제회복력   |
 | Fiscal Policy   | 재정정책   |
 | Monetary Policy | 통화정책   |
 

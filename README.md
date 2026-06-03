@@ -6,6 +6,12 @@ This repository contains terminology management practices developed during gradu
 
 The purpose is to organize specialized terminology, maintain consistency, and improve clarity for different audiences.
 
+## Background
+
+During graduate studies in translation and interpretation, I maintained terminology lists across economics, international relations, and business topics.
+
+The goal was not only to memorize terms, but also to ensure consistency and improve comprehension across different audiences.
+
 ## Why Terminology Management?
 
 When translating specialized content, different terms are often used for the same concept.

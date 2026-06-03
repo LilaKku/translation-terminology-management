@@ -19,14 +19,14 @@ Maintaining consistency is important because terminology directly affects compre
 | English         | Korean |
 | --------------- | ------ |
 | resilient economy | 경제회복력   |
-| Fiscal Policy   | 재정정책   |
-| Monetary Policy | 통화정책   |
+| fiscal policy   | 재정정책   |
+| monetary policy | 통화정책   |
 
 ### International Relations
 
 | English         | Korean |
 | --------------- | ------ |
-| Deploy peacekeeping operations | 평화유지작전 배치|
+| deploy peacekeeping operations | 평화유지작전 배치|
 | minilateral  | 소규모다자   |
 | uphold the UN charter       | 유엔 헌장을 지키다     |
 
@@ -34,9 +34,9 @@ Maintaining consistency is important because terminology directly affects compre
 
 | English       | Korean |
 | ------------- | ------ |
-| Stakeholder   | 이해관계자  |
-| Due Diligence | 실사     |
-| Market Share  | 시장점유율  |
+| stakeholder   | 이해관계자  |
+| due diligence | 실사     |
+| market share  | 시장점유율  |
 
 ## Documentation Principles
 

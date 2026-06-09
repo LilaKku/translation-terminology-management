@@ -45,6 +45,7 @@ Maintaining consistency is important because terminology directly affects compre
 | due diligence | 실사     |
 | market share  | 시장점유율  |
 | The market is led by...  | ~가 시장을 주도하다  |
+| The industry is back in black.  | 흑자 전환 |
 
 ## Documentation Principles
 

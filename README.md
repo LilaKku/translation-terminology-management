@@ -46,6 +46,9 @@ Maintaining consistency is important because terminology directly affects compre
 | market share  | 시장점유율  |
 | The market is led by...  | ~가 시장을 주도하다  |
 | The industry is back in black.  | 흑자 전환 |
+| Return on Capital(ROC)  | 투자자본수익률 |
+| well above average for a retailer  | 유통업계 평균 상회 |
+
 
 ## Documentation Principles
 

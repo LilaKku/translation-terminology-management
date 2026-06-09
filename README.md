@@ -35,6 +35,7 @@ Maintaining consistency is important because terminology directly affects compre
 | deploy peacekeeping operations | 평화유지작전 배치|
 | minilateral  | 소규모다자   |
 | uphold the UN charter       | 유엔 헌장을 지키다     |
+| inseparable  | 떨어질 수 없는 이웃   |
 
 ### Business
 
@@ -43,6 +44,7 @@ Maintaining consistency is important because terminology directly affects compre
 | stakeholder   | 이해관계자  |
 | due diligence | 실사     |
 | market share  | 시장점유율  |
+| The market is led by...  | ~가 시장을 주도하다  |
 
 ## Documentation Principles
 
